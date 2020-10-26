@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="183797" started-at="2020-10-26T11:30:13 IST" finished-at="2020-10-26T11:33:16 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="183797" started-at="2020-10-26T11:30:13 IST" finished-at="2020-10-26T11:33:16 IST">
+      <class name="com.ustg.amazon.test.AmazonTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ustg.amazon.test.AmazonTest@64729b1e]" name="setUp" is-config="true" duration-ms="34649" started-at="2020-10-26T11:29:38 IST" finished-at="2020-10-26T11:30:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validloginTest()[pri:0, instance:com.ustg.amazon.test.AmazonTest@64729b1e]" name="validloginTest" duration-ms="21007" started-at="2020-10-26T11:30:13 IST" finished-at="2020-10-26T11:30:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validloginTest -->
+        <test-method status="PASS" signature="womensCategoryTest()[pri:1, instance:com.ustg.amazon.test.AmazonTest@64729b1e]" name="womensCategoryTest" duration-ms="54754" started-at="2020-10-26T11:30:34 IST" finished-at="2020-10-26T11:31:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- womensCategoryTest -->
+        <test-method status="PASS" signature="womensFashionListTest()[pri:2, instance:com.ustg.amazon.test.AmazonTest@64729b1e]" name="womensFashionListTest" duration-ms="20130" started-at="2020-10-26T11:31:28 IST" finished-at="2020-10-26T11:31:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- womensFashionListTest -->
+        <test-method status="PASS" signature="AddToCartPageTest()[pri:3, instance:com.ustg.amazon.test.AmazonTest@64729b1e]" name="AddToCartPageTest" duration-ms="15950" started-at="2020-10-26T11:31:49 IST" finished-at="2020-10-26T11:32:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddToCartPageTest -->
+        <test-method status="PASS" signature="ShopCartPageTest()[pri:4, instance:com.ustg.amazon.test.AmazonTest@64729b1e]" name="ShopCartPageTest" duration-ms="9074" started-at="2020-10-26T11:32:05 IST" finished-at="2020-10-26T11:32:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ShopCartPageTest -->
+        <test-method status="PASS" signature="ElectronicsCategoryTest()[pri:5, instance:com.ustg.amazon.test.AmazonTest@64729b1e]" name="ElectronicsCategoryTest" duration-ms="14291" started-at="2020-10-26T11:32:14 IST" finished-at="2020-10-26T11:32:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ElectronicsCategoryTest -->
+        <test-method status="PASS" signature="headphoneListTest()[pri:6, instance:com.ustg.amazon.test.AmazonTest@64729b1e]" name="headphoneListTest" duration-ms="16540" started-at="2020-10-26T11:32:28 IST" finished-at="2020-10-26T11:32:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- headphoneListTest -->
+        <test-method status="PASS" signature="AddToCartPageTest2()[pri:7, instance:com.ustg.amazon.test.AmazonTest@64729b1e]" name="AddToCartPageTest2" duration-ms="12494" started-at="2020-10-26T11:32:44 IST" finished-at="2020-10-26T11:32:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddToCartPageTest2 -->
+        <test-method status="PASS" signature="SignOutAndSignIn()[pri:7, instance:com.ustg.amazon.test.AmazonTest@64729b1e]" name="SignOutAndSignIn" duration-ms="19462" started-at="2020-10-26T11:32:57 IST" finished-at="2020-10-26T11:33:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignOutAndSignIn -->
+      </class> <!-- com.ustg.amazon.test.AmazonTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
