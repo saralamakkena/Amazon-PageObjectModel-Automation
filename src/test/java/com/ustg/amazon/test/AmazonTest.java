@@ -23,10 +23,10 @@ public class AmazonTest  extends TestBaseImpl {
 		Thread.sleep(2000);
 		homePage.clickSignIn();
 		Thread.sleep(2000);
-        loginPage.enterusername("9014175376");
+        loginPage.enterusername("25665894412");
 		Thread.sleep(2000);
 		loginPage.clickContinue();
-		loginPage.enterpassword("Password@123");
+		loginPage.enterpassword("password");
 		Thread.sleep(2000);
 		loginPage.clickLogin();
 		Thread.sleep(2000);
